@@ -1,4 +1,4 @@
-# TD TOX
+# Useful TouchDesigner Toxes
 
 A bunch of helpful Touchdesigner toxes that I use for performances, all toxes are created from free tutorials available on YouTube and packaged as toxes with exposed parameters for ease of performance. Would suggest hosting each tox in an Engine COMP to parallel process the effects when chaining them.
 
